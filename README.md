@@ -1,4 +1,4 @@
-# code-meetup-rsvp
+# CodeMeetupRSVP
 Simple ASP.NET Core Application that allows invitees to RSVP to code meetups.
 
 The app has the following requirements:
