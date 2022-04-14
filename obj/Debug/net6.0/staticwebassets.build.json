@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "YyVTxPTEO7FANbmSnncB40hyZIjqxyUcmAWTcWFZy9s=",
+  "Hash": "qYKKdONvFOQdBnai3qa+p8maXlaU/2FCUFpPxlvPTJA=",
   "Source": "CodeMeetupRSVP",
   "BasePath": "_content/CodeMeetupRSVP",
   "Mode": "Default",
@@ -66,6 +66,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\jonot\\source\\repos\\CodeMeetupRSVP\\wwwroot\\css\\styles.css",
+      "SourceId": "CodeMeetupRSVP",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonot\\source\\repos\\CodeMeetupRSVP\\wwwroot\\",
+      "BasePath": "_content/CodeMeetupRSVP",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
     },
     {
       "Identity": "C:\\Users\\jonot\\source\\repos\\CodeMeetupRSVP\\wwwroot\\favicon.ico",
